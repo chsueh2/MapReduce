@@ -2,6 +2,8 @@
 
 Implement MapReduce in Python for processing and generating large data sets with a parallel and distributed algorithm on a cluster.
 
+[Project report](https://htmlpreview.github.io/?https://raw.githubusercontent.com/chsueh2/NFL_MapReduce/main/MapReduce.html)
+
 Key features:
 
 - MapReduce
@@ -17,7 +19,7 @@ Modules used:
 
 ## Project Report
 
-[Project report](https://htmlpreview.github.io/?https://raw.githubusercontent.com/chsueh2/Online_Shoppers_Purchasing_Intention/main/online_shoppers.html) ([Jupyter Notebook](./MapReduce.ipynb))
+[Project report](https://htmlpreview.github.io/?https://raw.githubusercontent.com/chsueh2/NFL_MapReduce/main/MapReduce.html) ([Jupyter Notebook](./MapReduce.ipynb))
 
 The analysis results with theoretical backgrounds are included.
 
